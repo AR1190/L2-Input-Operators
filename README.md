@@ -1,4 +1,4 @@
-## Input
+----------------## Input
 Input is the way the computer gets information from the user
 
 Note: Python initially trears inout as a `string` type

@@ -14,5 +14,8 @@ print(str(userAge) + " is so young!")
 # Have at least 5 inputs
 
 userName = input("Please give me a person's name: ")
-print("username " + "was taking a nap")
+print(userName + " was taking a nap")
 adjective = input("Please give me a adjective: ")
+print(userName  + " was woken up by a strange " + adjective + " sound")
+companyName = input("Please give me a Company Name:")
+print("An army was coming towards them, their name was " + companyName)
